@@ -1,0 +1,10 @@
+.main_section {
+    background-color: #ffffff !important;
+    margin: 20px 20px;
+    height: auto !important;
+    min-height: 80vh;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    font-family: sans-serif;
+    padding: 30px 50px;
+}
